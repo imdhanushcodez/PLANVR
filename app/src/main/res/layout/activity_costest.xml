@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".costest">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_90sdp"
+        android:fontFamily="@font/osbold"
+        android:text="COST MAP"
+        android:paddingStart="@dimen/_33sdp"
+        android:textAlignment="textStart"
+        android:textColor="#141313"
+        android:textSize="@dimen/_25sdp"
+        app:layout_constraintTop_toTopOf="parent">
+    </TextView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_300sdp"
+        android:layout_marginTop="@dimen/_160sdp"
+        android:background="@drawable/villagecost"
+        app:layout_constraintTop_toTopOf="parent">
+    </ImageView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

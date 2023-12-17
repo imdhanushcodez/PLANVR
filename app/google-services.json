@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229190295184",
+    "project_id": "planvr-b366b",
+    "storage_bucket": "planvr-b366b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229190295184:android:b92653426fe03dd2574215",
+        "android_client_info": {
+          "package_name": "com.example.planvr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawS8yb-ctP4Lc-R2JLfrag_Jdd2lkr3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
